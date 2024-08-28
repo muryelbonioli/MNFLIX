@@ -1,0 +1,18 @@
+body{
+    color:white;
+    background: blue;
+    margin: 7px;
+}
+header {
+    border-bottom: solid 3px black;
+    margin: 10px;
+    font-size: 30px;
+    color:white;
+}
+section{
+    background: #a5c7d5;
+    padding-bottom: 68px;
+    padding-top: 68px;
+    display: flex;
+    justify-content: center;
+}
